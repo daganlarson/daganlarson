@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daganlarson
-- 🌱 I’m currently learning flutter and developing a scheduling algorithm.
+- 🌱 I’m currently learning firebase with flutter, react.js for a personal website, and various python libraries for other projects.
 - 💞️ I’m looking to collaborate on interesting ideas in math and physics.
 
 <!---
