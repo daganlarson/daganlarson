@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @daganlarson
-- 🌱 I’m currently learning firebase with flutter, react.js for a personal website, and various python libraries for other projects.
-- 💞️ I’m looking to collaborate on interesting ideas in math and physics.
+- 🌱 I’m currently a senior studying computer science @ UMD Duluth graduating May 2025
+- Seeking employment opportunties in the Minnesota area for software development and related fields
+- Reach out to my email [[lars7283@d.umn.edu]] or linkedin [[linkedin.com/in/daganlarson]]
 
 <!---
 daganlarson/daganlarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
